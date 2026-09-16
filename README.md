@@ -57,7 +57,6 @@ class CyberSecurityEnthusiast:
 ### 🔐 Cybersecurity Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
 </p>
@@ -65,20 +64,7 @@ class CyberSecurityEnthusiast:
 <p align="center">
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLmap"/>
-  <img src="https://img.shields.io/badge/Nuclei-7B61FF?style=for-the-badge&logo=nuclei&logoColor=white" alt="Nuclei"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ffuf-F0DB4F?style=for-the-badge&logo=go&logoColor=111111" alt="ffuf"/>
-  <img src="https://img.shields.io/badge/Nikto-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="Nikto"/>
-  <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster"/>
-  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hydra-6F42C1?style=for-the-badge&logo=linux&logoColor=white" alt="Hydra"/>
-  <img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Netcat"/>
-  <img src="https://img.shields.io/badge/Hashcat-1A1A1A?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/>
-  <img src="https://img.shields.io/badge/Proxychains-444444?style=for-the-badge&logo=linux&logoColor=white" alt="Proxychains"/>
+    <img src="https://nmap.org/images/nmap-logo-64px.svg"
+       alt="Nmap"
+       height="45"/>
 </p>
