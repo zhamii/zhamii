@@ -1,16 +1,4 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="196" src="https://youtu.be/Mj21VbKi8og?si=_DgKCBgsZQAkOMUZ"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="left">Hey 👋, I'm Zhamii</h1>
-
-###
-
-<p data-importer="text" align="left">💻 Informatics Student | 🐞 Bug Hunter| 🔐 Junior Penetration Tester</p>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zhamii&fontSize=42&fontAlignY=30&desc=Junior%20Pentester%20%7C%20Bug%20Hunter%20%7C%20Cybersecurity%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 <h2 data-importer="text" align="left">🛡️ CYBER SECURITY</h2>
 
