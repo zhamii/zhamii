@@ -68,3 +68,31 @@ class CyberSecurityEnthusiast:
        alt="Nmap"
        height="45"/>
 </p>
+
+### 🗄️ Databases & Other Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhamii&theme=github_dark" alt="Zhamii GitHub Profile Summary" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  ### 🪲 "Hunt vulnerabilities. Learn continuously. Build securely." 🔐
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D2E,100:00FF88&height=100&section=footer" width="100%"/>
+
+</div>
